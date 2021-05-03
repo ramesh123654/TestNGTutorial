@@ -31,5 +31,6 @@ public class day1 {
 	public void SecondTest()
 	{
 		System.out.println("Day 1 SecondTest");
+		System.out.println("Day 1 SecondTest");
 	}
 }
