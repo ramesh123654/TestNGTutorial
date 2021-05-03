@@ -24,6 +24,7 @@ public class day1 {
 	public void AfterSuite()
 	{
 		System.out.println("THis is AfterSuite method of Day 1");
+		System.out.println("THis is AfterSuite method of Day 2");
 	}
 
 	@Test
