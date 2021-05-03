@@ -16,6 +16,8 @@ public class day1 {
 	public void Demo()
 	{
 		System.out.println("hello");//automation
+		System.out.println("hello1");//automation
+		System.out.println("hello2");//automation
 		//Assert.assertTrue(false);
 	}
 	@AfterSuite	
