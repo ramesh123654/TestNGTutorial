@@ -13,4 +13,9 @@ public class developer_data {
 	public void php_developer(){
 		System.out.println("Php developer");
 	}
+	
+	@Test
+	public void python_developer(){
+		System.out.println("python_developer");
+	}
 }
